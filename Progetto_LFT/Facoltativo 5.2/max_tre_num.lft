@@ -1,0 +1,10 @@
+read(x,y,z);
+if (&& > x y > x z)
+	print(x)
+end;
+if (&& > y x > y z)
+	print(y)
+end;
+if (&& > z x > z y)
+	print(z)
+end

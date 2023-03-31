@@ -1,0 +1,4 @@
+assign 10 to x,y,z,a,b,c;
+if (<> x y) {
+	print(x)
+}end
